@@ -1,0 +1,3 @@
+here i got this 
+how to write different lines 
+and get them in write command for one argument
